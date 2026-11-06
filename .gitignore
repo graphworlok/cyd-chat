@@ -1,0 +1,5 @@
+certs/*.pem
+.pio/
+.vscode/
+*.pem
+*.key
